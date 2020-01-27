@@ -35,15 +35,20 @@ I followed the above article and used the ghostwriter theme. Also took the blog 
 
 Again Following the above article make sure to post in the config file onto the root of your website folder it should resemble this picture. 
 
-image-20200127111357758
+![image-20200127113742704](C:\Users\JonathanSchool\AppData\Roaming\Typora\typora-user-images\image-20200127113742704.png)
 
 ### Step 5. Getting the website to load
 
 If your like me you are going to get some errors following the instructions in the above referenced blog.  What I had to do was as follows
 
 1. Ensure yarn is installed and verify this by using cmd or similar to type "yarn  -version"
+
 2. Make sure to cd into the themes folder and into the actual theme you chose. then type yarn and wait for all files to load. 
-3. Make sure to change the name in the config file to match that of the theme you chose for example my theme was ghostwriter-master so instead of the default ghostwriter I had to change it to be ghostwriter-master.
+
+3. Make sure to change the name in the config file to match that of the theme you chose for example my theme was ghostwriter-master so instead of the default ghostwriter I had to change it to be ghostwriter-master on line 3 of the image below .
+
+   ![image-20200127114023510](C:\Users\JonathanSchool\AppData\Roaming\Typora\typora-user-images\image-20200127114023510.png)
+
 4. Last run hugo serve inside your base directory.  View application on http://localhost:1313/
 
 #### Step 6. Setting up your Github Repo

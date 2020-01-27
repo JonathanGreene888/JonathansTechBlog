@@ -1,14 +1,14 @@
 +++
 title = "About"
-date = 2015-04-03T02:13:50Z
-author = "My Name"
-description = "Things about me."
+date = 2020-01-27T02:13:50Z
+author = "Jonathan Greene"
+description = "Some Background Information"
 +++
 
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec dolor in magna lobortis egestas. Suspendisse eu erat tempor, tristique neque eu, convallis nulla. Curabitur vel bibendum lacus, at semper mauris. Suspendisse aliquet commodo ex, sed sagittis metus aliquam id. Maecenas feugiat rutrum lorem vel imperdiet. Nullam ornare lectus ut enim finibus, et porttitor mi tincidunt. Aenean lacinia, leo quis vehicula eleifend, quam libero sagittis erat, at euismod augue mauris et sapien. Sed id vehicula lectus, sit amet auctor ipsum. Nunc sed massa vel ex condimentum aliquam in a enim. Cras enim sem, tristique eu enim ac, congue commodo mi. Integer quis orci at dolor blandit eleifend.
+My Name is Jonathan Greene you can see my portfolio at Jonathan-greene.com
 
 ## School
 
-Sed quis pulvinar nisi, sed dapibus lacus. Mauris tempus ex ut ipsum facilisis interdum. Integer feugiat urna sed feugiat tempor. Quisque dictum vestibulum feugiat. Nunc nec est volutpat lorem imperdiet egestas sit amet ut orci. Aliquam venenatis neque ipsum, a placerat lectus cursus at. Donec pellentesque tellus hendrerit faucibus posuere. Etiam gravida consequat lectus, volutpat consectetur velit convallis nec. Praesent sagittis luctus dignissim.
+I Attended Lambda School a 9 month long software engineering academy that focuses on full stack development use the MERN (Mongo, React, Express, Node) stack as well as teachning datastructures and alogrithms. There I learned full stack responsive web development as well as how to learn things quickly and be productive to any team very quickly.
