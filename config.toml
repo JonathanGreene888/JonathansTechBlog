@@ -5,13 +5,11 @@ theme = "ghostwriter-master"
 [Params]
     mainSections = ["post"]
     intro = true
-    headline = "My headline"
-    description = "My description"
-    github = "https://github.com/XXX"
-    twitter = "https://twitter.com/XXX"
-    email = "XXX@example.com"
+    headline = "My Tech Blog"
+    description = "A place to store what im learning and exploring in tech"
+    github = "https://github.com/jonathangreene888.com"
+    email = "jonathangreene888@gmail.com"
     opengraph = true
-    shareTwitter = true
     dateFormat = "Mon, Jan 2, 2006"
 
 [Permalinks]
