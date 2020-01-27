@@ -30,7 +30,7 @@ I followed the above article and used the ghostwriter theme. Also took the blog 
 
 Again Following the above article make sure to post in the config file onto the root of your website folder it should resemble this picture.
 
-![hugolanding](C:\Hugo\bin\JonathansBlog\static\hugolanding.png)
+![hugolanding](/hugolanding.png)
 
 ### Step 5. Getting the website to load
 
@@ -42,7 +42,7 @@ If your like me you are going to get some errors following the instructions in t
 
 3. Make sure to change the name in the config file to match that of the theme you chose for example my theme was ghostwriter-master so instead of the default ghostwriter I had to change it to be ghostwriter-master on line 3 of the image below .
 
-   ![hugoconfig](C:\Hugo\bin\JonathansBlog\static\hugoconfig.png)
+   ![hugoconfig](/hugoconfig.png)
 
 4. Last run hugo serve inside your base directory. View application on http://localhost:1313/
 
