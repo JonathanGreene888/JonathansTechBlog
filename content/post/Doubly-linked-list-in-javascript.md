@@ -13,7 +13,11 @@ Welcome my name is Jonathan Greene I am Full Stack Developer that focuses on bui
 The first step that needs to be taken is to analyze the goal and come up with a plan to complete it. Below you will find the exact question that was being asked.
 
 ```
-You’re given the pointer to the head node of a doubly linked list. Reverse the order of the nodes in the list. The head node might be NULL to indicate that the list is empty. Change the next and prev pointers of all the nodes so that the direction of the list is reversed. Return a reference to the head node of the reversed list.
+You’re given the pointer to the head node of a doubly linked list.
+Reverse the order of the nodes in the list.
+The head node might be NULL to indicate that the list is empty.
+Change the next and prev pointers of all the nodes so that the direction of the list is reversed.
+Return a reference to the head node of the reversed list.
 ```
 
 After doing this you can go ahead and start building out your logic.
