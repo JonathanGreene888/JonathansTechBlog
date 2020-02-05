@@ -41,9 +41,16 @@ into a form to see if it is run by the browser and can be viewed by other users.
 In regards to using 3rd party libraries and tools he also expands on it with the following:
 
 
-Modern web apps include 3rd party JavaScript libraries for A/B testing, funnel/market analysis, and ads. We use package managers like Bower to import other peoples’ code into our apps.
+Modern web apps include 3rd party JavaScript libraries for A/B testing, funnel/market analysis,
+and ads. We use package managers like Bower to import other peoples’ code into our apps.
 
-What if only one of the scripts you use is compromised? Malicious JavaScript can be embedded on the page, and Web Storage is compromised. These types of XSS attacks can get everyone’s Web Storage that visits your site, without their knowledge. This is probably why a bunch of organizations advise not to store anything of value or trust any information in web storage. This includes session identifiers and tokens.
+What if only one of the scripts you use is compromised?
+Malicious JavaScript can be embedded on the page,
+and Web Storage is compromised. These types of XSS attacks can get everyone’s
+Web Storage that visits your site, without their knowledge.
+This is probably why a bunch of organizations advise not to store
+anything of value or trust any information in web storage.
+This includes session identifiers and tokens.
 ```
 
 ### Step 3. Where is the right place to store JWT then
